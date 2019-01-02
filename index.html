@@ -1,10 +1,31 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: Hi, I'm Martin
+subtitle: Ph. D. student in probabilistic robotics
 use-site-title: true
+#image: "/img/moi.jpg"
 ---
+<!-- Typed.js --> 
+<!--script src="/js/jquery-1.11.2.min.js"></script> <!-- Typed.js uses old jquery ver -->
+<!--script src="/js/typed.js" type="text/javascript"></script>
+<script>
+  $(function(){
+    $(".typed").typed({
+      strings: ["Technology.","Open Source.","Mathematics.","Space and the Cosmos.","Science.","Art.","Linux."],
+      typeSpeed: 100,
+      loop: true,
+      backDelay: 1000
+    });
+  });
+</script-->
 
+
+<!--div class="mobile-js-hide">
+    <!-- particles.js container -->
+    <!--div id="particles-js"></div>
+</div-->
+
+<!-- site body (untouched)--> 
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">

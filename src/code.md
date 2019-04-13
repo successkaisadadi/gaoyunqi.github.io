@@ -5,6 +5,15 @@ title: Code
 
 ---
 
+
+## 2019
+------------------
+- ### AI-IMU Dead-Reckoning [[code](https://github.com/mbrossar/ai-imu-dr)]
+   * 1.10% translational error on the KITTI odometry sequences with only an Inertial Measurement Unit.
+   * Language: Python
+   * M. Brossard, A. Barrau and S. Bonnabel, __AI-IMU Dead-Reckoning__, 2019. [[paper](https://cloud.mines-paristech.fr/index.php/s/8YDqD0Y1e6BWzCG), [code](https://github.com/mbrossar/ai-imu-dr)]
+
+
 ## 2018
 ------------------
 

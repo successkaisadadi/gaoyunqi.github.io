@@ -16,7 +16,7 @@ subtitle:
 ## Journals 
 ------------------------------
 
-- M. Brossard, A. Barrau and S. Bonnabel, __Exploiting Symmetries to Design EKFs with Consistency Properties for Navigation and SLAM__, _IEEE Sensors Journal_, 2018. [[IEEE paper](https://ieeexplore.ieee.org/document/8543208/), [HAL* paper](), [code](https://github.com/CAOR-MINES-ParisTech/esde)]
+- M. Brossard, A. Barrau and S. Bonnabel, __Exploiting Symmetries to Design EKFs with Consistency Properties for Navigation and SLAM__, _IEEE Sensors Journal_, 2018. [[IEEE paper](https://ieeexplore.ieee.org/document/8543208/), [HAL* paper](https://hal.archives-ouvertes.fr/hal-02064782/file/main.pdf), [code](https://github.com/CAOR-MINES-ParisTech/esde)]
 
 - M. Brossard, M. N. El Korso, M. Pesavento, R. Boyer, P. Larzabal and S. J. Wijnholds, __Parallel Multi-Wavelength Calibration Algorithm for Radio Astronomical Arrays__, _Signal Processing_, vol. 145, pp. 258--271, 2018. [[sciencedirect paper](https://www.sciencedirect.com/science/article/pii/S0165168417304279), [HAL* paper](https://hal-univ-paris10.archives-ouvertes.fr/hal-01675545)]
 
@@ -24,6 +24,8 @@ subtitle:
 
 ## Conference Proceedings
 ------------------------------
+
+- M. Brossard and S. Bonnabel, __Learning Wheel Odometry and IMU Errors for Localization__, _IEEE International Conference on Robotics and Automation (ICRA)_, 2019. [[HAL* paper](https://hal.archives-ouvertes.fr/hal-01874593/document)]
 
 - M. Brossard, S. Bonnabel and A. Barrau, __Unscented Kalman Filter on Lie Groups for Visual Inertial Odometry__, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, 2018. [[IEEE paper](), [HAL* paper](https://hal.archives-ouvertes.fr/hal-01735542v2), [code](https://github.com/mbrossar/msckf_vio)]
 
@@ -35,6 +37,12 @@ subtitle:
 - M. Brossard, S. Bonnabel and J. P. Condomines, __Unscented Kalman Filtering on Lie Groups__, _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)_, pp. 2485--2491, 2017. [[IEEE paper](https://ieeexplore.ieee.org/document/8206066), [HAL* paper](https://hal.archives-ouvertes.fr/hal-01489204v3)]
 
 - M. Brossard, M. N. El Korso, M. Pesavento, R. Boyer and P. Larzabal, __Calibration of Radio Interferometers Using a Sparse DoA Estimation Framework__, _24th European Signal Processing Conference (EUSIPCO)_, pp. 275--279, 2016. [[IEEE paper](https://ieeexplore.ieee.org/document/7760253), [HAL* paper](https://hal.archives-ouvertes.fr/hal-01421515)]
+
+## Others
+------------------------------
+- M. Brossard, A. Barrau and S. Bonnabel, __RINS-W: Robust Inertial Navigation System on Wheels__, 2019. [[HAL paper](https://hal.archives-ouvertes.fr/hal-02057117/file/main.pdf)]
+
+- M. Brossard, A. Barrau and S. Bonnabel, __AI-IMU Dead-Reckoning__, 2019. [[paper](https://cloud.mines-paristech.fr/index.php/s/8YDqD0Y1e6BWzCG), [code](https://github.com/mbrossar/ai-imu-dr)]
 
 
 *HAL is an open archive where authors can deposit scholarly documents from all academic fields.

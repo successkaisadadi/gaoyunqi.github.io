@@ -41,9 +41,9 @@ subtitle:
 
 ## Others
 ------------------------------
-- M. Brossard, A. Barrau, and S. Bonnabel __A Code for Unscented Kalman Filtering on Manifolds (UKF-M)__, 2019. [[paper](https://cloud.mines-paristech.fr/index.php/s/uUjOhxaKp4v9yJT/download)], [code](https://github.com/CAOR-MINES-ParisTech/ukfm)]
+- M. Brossard, A. Barrau, and S. Bonnabel __A Code for Unscented Kalman Filtering on Manifolds (UKF-M)__, 2019. [[paper](https://cloud.mines-paristech.fr/index.php/s/uUjOhxaKp4v9yJT/download), [code](https://github.com/CAOR-MINES-ParisTech/ukfm)]
 
-- M. Brossard, S. Bonnabel, and A. Barrau __A New Approach to 3D ICP Covariance Estimation for Mobile Robotics__, 2019. [[ArXiv paper](https://arxiv.org/pdf/1909.05722.pdf)], [code](https://github.com/CAOR-MINES-ParisTech/3d-icp-cov)]
+- M. Brossard, S. Bonnabel, and A. Barrau __A New Approach to 3D ICP Covariance Estimation for Mobile Robotics__, 2019. [[ArXiv paper](https://arxiv.org/pdf/1909.05722.pdf), [code](https://github.com/CAOR-MINES-ParisTech/3d-icp-cov)]
 
 - M. Brossard, A. Barrau and S. Bonnabel, __AI-IMU Dead-Reckoning__, 2019. [[paper](https://cloud.mines-paristech.fr/index.php/s/8YDqD0Y1e6BWzCG), [code](https://github.com/mbrossar/ai-imu-dr)]
 

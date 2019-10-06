@@ -12,7 +12,14 @@ title: Code
    * 1.10% translational error on the KITTI odometry sequences with only an Inertial Measurement Unit.
    * Language: Python
    * M. Brossard, A. Barrau and S. Bonnabel, __AI-IMU Dead-Reckoning__, 2019. [[paper](https://cloud.mines-paristech.fr/index.php/s/8YDqD0Y1e6BWzCG), [code](https://github.com/mbrossar/ai-imu-dr)]
-
+   
+- ### A New Approach to 3D ICP Covariance Estimation for Mobile Robotics [[code](https://github.com/CAOR-MINES-ParisTech/3d-icp-cov)]
+   * Language: Python
+   * M. Brossard, S. Bonnabel, and A. Barrau, __A New Approach to 3D ICP Covariance Estimation for Mobile Robotics__, 2019. [[ArXiv paper](https://arxiv.org/pdf/1909.05722.pdf), [code](https://github.com/CAOR-MINES-ParisTech/3d-icp-cov)]
+   
+- ### A Code for Unscented Kalman Filtering on Manifolds (UKF-M) [[code](https://github.com/CAOR-MINES-ParisTech/ukfm)]
+   * Language: Python
+   * M. Brossard, A. Barrau, and S. Bonnabel __A Code for Unscented Kalman Filtering on Manifolds (UKF-M)__, 2019. [[paper](https://cloud.mines-paristech.fr/index.php/s/uUjOhxaKp4v9yJT/download), [code](https://github.com/CAOR-MINES-ParisTech/ukfm)]
 
 ## 2018
 ------------------

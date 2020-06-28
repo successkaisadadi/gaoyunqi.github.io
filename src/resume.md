@@ -59,4 +59,4 @@ Parallel processing
 
 `English` TOEIC, level B2
 
-Last updated: April 2019
+Last updated: June 2020

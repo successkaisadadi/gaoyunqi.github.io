@@ -25,7 +25,6 @@ description: Ph.D. student in robotics
 navbar-links:
   Portfolio: 
     - Papers: "src/papers"
-    - Code: "src/code"
     - Slides & Posters: "src/slidesandposters"
   Activity:
     - Github: "https://github.com/mbrossar"

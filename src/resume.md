@@ -11,7 +11,7 @@ subtitle:
 -------------------------------------------------------
 
 `2017–now` __Ph. D.,__ _MINES Paristech, Paris, France._  
-&ensp; Ph. D specialized in informatic, robotic and automatic control
+&ensp; Ph. D. specialized in state estimation and navigation in robotic
 
 `2016–2017` __Master's degree (second year),__ _ENS Cachan, Cachan, France._  
 &ensp; Second year of Master degree ATSI in automatic control and signal processing, with honours
@@ -54,9 +54,14 @@ subtitle:
 
 `State estimation`
 
+`SLAM`
+
+`Deep learning`
+
+`Inertial Measurement Unit`
+
+`Visual-inertial odometry`
+
 `Programming` C++, C, Python, Matlab.
-Parallel processing
 
-`English` TOEIC, level B2
-
-Last updated: June 2020
+Last updated: September 2020

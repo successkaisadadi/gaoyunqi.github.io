@@ -10,8 +10,8 @@ subtitle:
 ## Education
 -------------------------------------------------------
 
-`2017–now` __Ph. D.,__ _MINES Paristech, Paris, France._  
-&ensp; Ph. D. specialized in state estimation and navigation in robotic
+`2017–2020` __Ph. D.,__ _MINES Paristech, Paris, France._  
+&ensp; Ph. D specialized in state estimation methods for autonomous localization and navigation. High experience with Kalman filtering, sensor fusion, and deep learning. Advisors: Silvère Bonnabel and Axel Barau
 
 `2016–2017` __Master's degree (second year),__ _ENS Cachan, Cachan, France._  
 &ensp; Second year of Master degree ATSI in automatic control and signal processing, with honours
@@ -35,7 +35,10 @@ subtitle:
 ## Work Experience
 ------------------------------------------------------------
 
-`2017–now` __Ph. D. complementary work,__ _Palais de la Découverte (``Discovery Palace"), Paris, France._  
+`2020–now` __R&D SLAM/Computer Vision Engineer,__ _Arcturus Industries, Madrid, Spain._  
+&ensp; Building next generation computer vision perception technologies for Virtual and Augmented Reality
+
+`2017–2020` __Ph. D. complementary work,__ _Palais de la Découverte (``Discovery Palace"), Paris, France._  
 &ensp; Scientific popularization with public interaction
 
 `2017` __Master's Internship,__ _MINES Paristech, Paris, France._  

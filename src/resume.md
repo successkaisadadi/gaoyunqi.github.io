@@ -11,7 +11,7 @@ subtitle:
 -------------------------------------------------------
 
 `2017–2020` __Ph. D.,__ _MINES Paristech, Paris, France._  
-&ensp; Ph. D specialized in state estimation methods for autonomous localization and navigation. High experience with Kalman filtering, sensor fusion, and deep learning. Advisors: Silvère Bonnabel and Axel Barau
+&ensp; Ph. D specialized in state estimation methods for autonomous localization and navigation. High experience with Kalman filtering, sensor fusion, and deep learning. Advisors: Silvère Bonnabel and Axel Barau. _Best 2020 French PhD in Robotics Prize, French Research Robotics Network (CNRS)_
 
 `2016–2017` __Master's degree (second year),__ _ENS Cachan, Cachan, France._  
 &ensp; Second year of Master degree ATSI in automatic control and signal processing, with honours

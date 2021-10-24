@@ -15,7 +15,7 @@ bigimg:
 <span class="fas fa-briefcase" aria-hidden="true"></span> 
 I am a French R&D SLAM/Computer Vision Engineer working at Arcturus Industries. My job consists in building next generation computer vision perception technologies for Virtual and Augmented Reality.
 
-I was Ph. D. student who lived in Paris and worked in  probabilistic robotics at the [MINES ParisTech](http://www.mines-paristech.fr/) Centre of Robotics. I was generously assisted by thesis director and advisor Silvère Bonnabel and Axel Barrau. 
+I was Ph. D. student who lived in Paris and worked in  probabilistic robotics at the [MINES ParisTech](http://www.mines-paristech.fr/) Centre of Robotics. I was generously assisted by thesis director and advisor Silvère Bonnabel and Axel Barrau and received the 2020 best French PhD in Robotics prize from French Research Robotics Network (CNRS).
 
 <span class="fas fa-briefcase" aria-hidden="true"></span>  My Ph.D. work focus on autonomous navigation and essentially addresses the following question: How can a mobile robot or an autonomous vehicle localize itself and builds a map of its environment with sensors like GPS, inertial measurement units, or camera ? I have a keen interest in combining deep/machine learning frameworks with traditional filtering methods of state estimation. My PhD research, furthermore, has enabled me to extensively develop my skill programming skills in Python and C++.
 

@@ -16,6 +16,8 @@ subtitle:
 ## Journals 
 ------------------------------
 
+- M. Brossard, A. Barrau, P. Chauchat and S. Bonnabel, __Associating Uncertainty to Extended Poses for on Lie Group IMU Preintegration with Rotating Earth__, in_IEEE Transactions on Robotics_, 2020. [[IEEE paper](https://ieeexplore.ieee.org/document/9519152), [ArXiv paper](https://arxiv.org/abs/2007.14097), [code](https://github.com/mbrossar/https://github.com/mbrossar/SE2-3-)]
+
 - M. Brossard, S. Bonnabel, and A. Barrau, __Denoising IMU Gyroscope with Deep Learning for Open-Loop Attitude Estimation__, _IEEE Robotics and Automation Letters_, vol. 5, no. 3, pp. 4796 - 4803, 2020. [[IEEE paper](https://ieeexplore.ieee.org/document/9119813), [HAL* paper](https://hal.archives-ouvertes.fr/hal-02488923/document), [code](https://github.com/mbrossar/denoise-imu-gyro)]
 
 - M. Brossard, A. Barrau and S. Bonnabel, __AI-IMU Dead-Reckoning__, _IEEE Transactions on Intelligent Vehicles_, 2020. [[IEEE paper](https://ieeexplore.ieee.org/document/9035481), [ArXiv paper](https://arxiv.org/abs/1904.06064), [code](https://github.com/mbrossar/ai-imu-dr)]
@@ -50,7 +52,7 @@ subtitle:
 ## Others
 ------------------------------
 
-- M. Brossard, A. Barrau, P. Chauchat and S. Bonnabel, __Associating Uncertainty to Extended Poses for on Lie Group IMU Preintegration with Rotating Earth__, 2020. [[ArXiv paper](https://arxiv.org/abs/2007.14097), [code](https://github.com/mbrossar/https://github.com/mbrossar/SE2-3-)]
+
 
 
 *HAL is an open archive where authors can deposit scholarly documents from all academic fields.
